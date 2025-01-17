@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json; // Thêm thư viện Newtonsoft.Json để làm việc với JSON.
+using System;
+using System.Text; // Thêm namespace để thiết lập mã hóa
+using Newtonsoft.Json; // Thư viện để làm việc với JSON
 
-namespace BaiTapWeb
+namespace CircleCalculator
 {
     class Program
     {
@@ -30,6 +27,9 @@ namespace BaiTapWeb
 
         static void Main(string[] args)
         {
+            // Thiết lập mã hóa UTF-8 cho Console để hỗ trợ tiếng Việt
+            Console.OutputEncoding = Encoding.UTF8;
+
             double r;
             Console.WriteLine("Chương trình tính toán hình tròn");
 
