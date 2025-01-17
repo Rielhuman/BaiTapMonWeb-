@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Text; // Thêm namespace để thiết lập mã hóa
 using Newtonsoft.Json; // Thư viện để làm việc với JSON
 

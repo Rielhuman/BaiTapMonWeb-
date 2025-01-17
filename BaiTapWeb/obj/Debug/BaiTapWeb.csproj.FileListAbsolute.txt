@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BaiTapWeb\bin\Debug\BaiTapWeb.exe.config
+C:\Users\Admin\source\repos\BaiTapWeb\bin\Debug\BaiTapWeb.exe
+C:\Users\Admin\source\repos\BaiTapWeb\bin\Debug\BaiTapWeb.pdb
+C:\Users\Admin\source\repos\BaiTapWeb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\BaiTapWeb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\BaiTapWeb\obj\Debug\BaiTapWeb.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapWeb\obj\Debug\BaiTapWeb.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapWeb\obj\Debug\BaiTapWeb.csproj.Up2Date
+C:\Users\Admin\source\repos\BaiTapWeb\obj\Debug\BaiTapWeb.exe
+C:\Users\Admin\source\repos\BaiTapWeb\obj\Debug\BaiTapWeb.pdb
